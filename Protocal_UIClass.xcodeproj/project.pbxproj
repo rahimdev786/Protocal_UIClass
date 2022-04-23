@@ -14,6 +14,7 @@
 		EF07F19028146B0300AA35D5 /* Protocal_UIClass.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = EF07F18E28146B0300AA35D5 /* Protocal_UIClass.xcdatamodeld */; };
 		EF07F19228146B0500AA35D5 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = EF07F19128146B0500AA35D5 /* Assets.xcassets */; };
 		EF07F19528146B0500AA35D5 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = EF07F19328146B0500AA35D5 /* LaunchScreen.storyboard */; };
+		EF07F19D28146B4500AA35D5 /* Protocal.swift in Sources */ = {isa = PBXBuildFile; fileRef = EF07F19C28146B4500AA35D5 /* Protocal.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		EF07F19128146B0500AA35D5 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		EF07F19428146B0500AA35D5 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		EF07F19628146B0500AA35D5 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		EF07F19C28146B4500AA35D5 /* Protocal.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Protocal.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -61,6 +63,7 @@
 				EF07F18528146B0300AA35D5 /* AppDelegate.swift */,
 				EF07F18728146B0300AA35D5 /* SceneDelegate.swift */,
 				EF07F18928146B0300AA35D5 /* ViewController.swift */,
+				EF07F19C28146B4500AA35D5 /* Protocal.swift */,
 				EF07F18B28146B0300AA35D5 /* Main.storyboard */,
 				EF07F19128146B0500AA35D5 /* Assets.xcassets */,
 				EF07F19328146B0500AA35D5 /* LaunchScreen.storyboard */,
@@ -144,6 +147,7 @@
 				EF07F19028146B0300AA35D5 /* Protocal_UIClass.xcdatamodeld in Sources */,
 				EF07F18A28146B0300AA35D5 /* ViewController.swift in Sources */,
 				EF07F18628146B0300AA35D5 /* AppDelegate.swift in Sources */,
+				EF07F19D28146B4500AA35D5 /* Protocal.swift in Sources */,
 				EF07F18828146B0300AA35D5 /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
